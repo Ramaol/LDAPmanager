@@ -1,0 +1,7 @@
+dn: cn=security,dc=nit,dc=ir
+objectclass: top
+objectclass: groupOfNames
+cn: security
+description: test group
+member: uid=radman,dc=nit,dc=ir
+member: uid=parham,dc=nit,dc=ir

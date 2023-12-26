@@ -1,0 +1,5 @@
+dn: cn=security,dc=nit,dc=ir
+changetype: modify
+delete: member
+member: uid=parham,dc=nit,dc=ir
+

@@ -1,0 +1,10 @@
+dn: dc=newwwwwwwwwwww,dc=nit,dc=ir
+changetype: modify
+replace: o
+o: oeo
+
+dn: dc=newwwwwwwwwwww,dc=nit,dc=ir
+changetype: modrdn
+newrdn: dc=new
+deleteoldrdn: 1
+

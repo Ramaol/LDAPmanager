@@ -1,0 +1,4 @@
+dn: ou=groups,dc=nit,dc=ir
+changetype: modrdn
+newrdn: ou=groupss
+deleteoldrdn: 1

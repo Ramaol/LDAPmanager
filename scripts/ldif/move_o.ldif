@@ -1,0 +1,5 @@
+dn: dc=peoplepeople,dc=nit,dc=ir
+changetype: modrdn
+newrdn: dc=peoplepeople
+deleteoldrdn: 1
+newsuperior: dc=test,dc=nit,dc=ir

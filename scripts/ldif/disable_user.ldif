@@ -1,0 +1,17 @@
+dn: uid=radman,dc=nit,dc=ir
+changetype: modify
+add: objectClass
+objectClass: top
+
+add: objectClass
+objectClass: LDAPsubentry
+
+add: objectClass
+objectClass: pwdPolicy
+
+add: objectClass
+objectClass: sunPwdPolicy
+
+add: pwdAccountLockedTime
+pwdAccountLockedTime: 000001010000Z
+

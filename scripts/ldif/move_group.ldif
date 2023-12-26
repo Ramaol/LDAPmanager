@@ -1,0 +1,4 @@
+dn: cn=security,ou=groups,dc=nit,dc=ir
+changetype: modrdn
+newrdn: cn=security
+deleteoldrdn: 1

@@ -1,0 +1,5 @@
+dn: uid=alireza,ou=users,dc=nit,dc=ir
+changetype: modrdn
+newrdn: uid=alireza
+deleteoldrdn: 1
+newsuperior: ou=groups,dc=nit,dc=ir

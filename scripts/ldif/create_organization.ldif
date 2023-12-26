@@ -1,0 +1,6 @@
+dn: dc=email,dc=nit,dc=ir
+objectClass: top
+objectClass: dcObject
+objectClass: organization
+dc: email
+o: some

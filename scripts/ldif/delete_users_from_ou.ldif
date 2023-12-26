@@ -1,0 +1,3 @@
+dn: uid=radman,ou=2,ou=1,dc=nit,dc=ir
+changetype: delete
+

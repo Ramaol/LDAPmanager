@@ -1,0 +1,13 @@
+dn: uid=parham,dc=nit,dc=ir
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: shadowAccount
+uid: parham
+sn: mehr
+givenName: ewew
+cn: wedew
+uidNumber: 122
+gidNumber: 121
+userPassword: wcwcwe
+loginShell: ewfewfewwef
+homeDirectory: wefwfew

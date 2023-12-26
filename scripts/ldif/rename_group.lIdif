@@ -1,0 +1,3 @@
+newrdn: cn=cn=new_grp,ou=groups,dc=nit,dc=ir__groupOfNames
+newrdn: cn=new_grp
+replace: description
